@@ -30,13 +30,11 @@ class Headers extends Component {
                  and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
                  <hr />
                  <ul class="social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                    <li><a href="https://www.facebook.com/thoriqnf"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/thoriqnf"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/thoriqnf"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://dribbble.com/thoriqnf"><i class="fa fa-dribbble"></i></a></li>
+                    <li><a href="https://www.github.com/thoriqnf"><i class="fa fa-github"></i></a></li>
                  </ul>
               </div>
            </div>
