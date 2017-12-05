@@ -13,11 +13,8 @@ class Contacts extends Component {
 
           <div class="ten columns">
             <p class="lead">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit.
+              <br/>
+              Feel free to contact me or leave your message here
             </p>
           </div>
         </div>
