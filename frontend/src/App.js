@@ -13,8 +13,8 @@ class App extends Component {
       <div className="App">
       <Header></Header>
       <About></About>
-      {/* <Resume></Resume>
-      <Portofolio></Portofolio>
+      <Resume></Resume>
+      {/* <Portofolio></Portofolio>
       <Testimonial></Testimonial>
       <Contacts></Contacts> */}
       <Footer></Footer>

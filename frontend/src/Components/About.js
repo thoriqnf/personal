@@ -20,9 +20,7 @@ class About extends Component {
                   I'm a Jakarta based Junior Web Developer who learn fast and passionate to explore web programming.
                   <br/>
                   Currently, I focused develop more than 5+  application using JavaScript environment along with HTML, CSS, jQuery, and React for Frontend. Node.js, Express for Backend,  MongoDB, MySQL for Database Mocha/Chai/Jest for testing, Scrum / Kanban for Agile Software Development, also system administration with Linux tooling and Git source control.
-                  <br/>
-                  kindly visit my personal website thoriqnf.com
-                  <br/>
+                  <br/> <br/>
                   see my CV online http://bit.ly/CVThoriqNurFaizal
                </p>
 

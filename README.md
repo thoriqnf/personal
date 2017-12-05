@@ -1,1 +1,1 @@
-# personal
+# personal website thoriqnf.com
